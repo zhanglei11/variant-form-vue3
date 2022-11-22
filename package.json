@@ -1,5 +1,5 @@
 {
-  "name": "vue3-scan",
+  "name": "variant-form-vue3",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -10,8 +10,7 @@
     "lint": "eslint src --fix"
   },
   "dependencies": {
-    "@ant-design/icons-vue": "^6.1.0",
-    "ant-design-vue": "^3.0.0-alpha.5",
+    "element-plus": "^2.2.12",
     "jsqr": "^1.4.0",
     "less": "^4.1.2",
     "less-loader": "^6.1.0",

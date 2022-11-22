@@ -1,7 +1,7 @@
 <template>
-  <a-col id="APP">
+  <el-col id="APP">
     <router-view />
-  </a-col>
+  </el-col>
 </template>
 <script lang="ts" setup name="APP"></script>
 <style lang="less" scoped>
